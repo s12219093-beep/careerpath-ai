@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CareerPath AI",
+  "description": "AI-powered career planning platform for university students and fresh graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
